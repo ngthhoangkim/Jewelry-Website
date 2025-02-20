@@ -18,6 +18,7 @@
 2. Lê Thị Phượng
 3. Nguyễn Văn Sơn
 4. Vũ Thành Đạt
+5. Nguyễn Trần Khánh Ngọc
 ## ĐÓNG GÓP VÀ LIÊN HỆ
 Nếu bạn muốn đóng góp hoặc vấn đề liên quan đến dự án xin hãy liên hệ đến địa chỉ mail **nguyenthihoangkim07022004@gmail.com**
 
